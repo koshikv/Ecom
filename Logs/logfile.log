@@ -1,0 +1,13 @@
+20/02/2023 12:22:45 PM: INFO: test_login: test_001_homepagelogin: ***** Test_001 *****
+20/02/2023 12:22:45 PM: INFO: test_login: test_001_homepagelogin: ***** test_001_homepagelogin started *****
+20/02/2023 12:22:49 PM: INFO: test_login: test_001_homepagelogin: ***** test_001_homepagelogin is passed *****
+20/02/2023 12:23:01 PM: INFO: test_login: test_002_loginmainpage: ***** Test_001 *****
+20/02/2023 12:23:01 PM: INFO: test_login: test_002_loginmainpage: ***** test_002_loginmainpage started *****
+20/02/2023 12:23:09 PM: INFO: test_login: test_002_loginmainpage: ***** test_002_loginmainpage is passed *****
+20/02/2023 12:23:20 PM: INFO: test_login_DDT: test_002_loginmainpage: ***** Test_002_DDT *****
+20/02/2023 12:23:20 PM: INFO: test_login_DDT: test_002_loginmainpage: ***** test_002_DDT_loginmainpage started *****
+20/02/2023 12:23:33 PM: INFO: test_login_DDT: test_002_loginmainpage: ************* test is passed *************
+20/02/2023 12:23:40 PM: INFO: test_login_DDT: test_002_loginmainpage: ************* test is passed *************
+20/02/2023 12:23:46 PM: INFO: test_login_DDT: test_002_loginmainpage: ************* test is passed *************
+20/02/2023 12:23:52 PM: INFO: test_login_DDT: test_002_loginmainpage: ************* test is passed *************
+20/02/2023 12:23:52 PM: INFO: test_login_DDT: test_002_loginmainpage: *********** Test_002_DDT_Login is passed ***********
